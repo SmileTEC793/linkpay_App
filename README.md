@@ -1,1 +1,1 @@
-# linkpay_App
+# linkpay_AppLinkPay App is a modern payment application designed for fast, secure, and seamless transactions. Built with scalability in mind, it integrates reliable backend services, automated CI/CD pipelines, and cloud-ready infrastructure to deliver a production-grade payment solution.
